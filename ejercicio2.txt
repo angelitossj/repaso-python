@@ -1,0 +1,14 @@
+Ejercicio 1:
+a) Crea una variable edad y asígnale un valor.
+b) Escribe una condición usando el operador and para verificar si la edad está entre 18 y 65 años.
+c) Imprime un mensaje según el resultado de la condición.
+
+Ejercicio 2:
+a) Crea dos variables temperatura y humedad con valores numéricos.
+b) Escribe una condición usando el operador or para verificar si la temperatura es mayor a 30 grados Celsius o la humedad es superior al 80%.
+c) Imprime un mensaje según el resultado de la condición.
+
+Ejercicio 3:
+a) Crea una variable numero y asígnale un valor numérico.
+b) Escribe una condición usando el operador not para verificar si el número no es igual a 0.
+c) Imprime un mensaje según el resultado de la condición

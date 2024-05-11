@@ -1,0 +1,27 @@
+Funciones Lambda:
+
+¿Qué son? Una función lambda en Python es una función anónima y de una sola línea.
+Sintaxis: lambda parametros: expresion
+Cómo funciona: La función lambda toma unos parámetros y devuelve el resultado de la expresión que se especifica.
+Ejemplo utilizado: lambda contrasena: len(contrasena) >= 8
+Este lambda toma un parámetro contrasena y devuelve True si la longitud de la contraseña es mayor o igual a 8 caracteres, de lo contrario devuelve False.
+Función any:
+
+¿Qué es? any es una función incorporada en Python que verifica si al menos uno de los elementos de un iterable es verdadero.
+Sintaxis: any(iterable)
+Cómo funciona: Itera sobre el iterable y devuelve True si al menos un elemento del iterable es verdadero, de lo contrario devuelve False.
+Ejemplo utilizado: any(c.isupper() for c in contrasena)
+Esta expresión verifica si al menos una letra en la contraseña es mayúscula.
+Iteración sobre la lista de condiciones:
+
+¿Qué es? Se refiere a usar un bucle for para recorrer los elementos de una lista.
+Sintaxis: for elemento in lista:
+Cómo funciona: En cada iteración, el bucle asigna el elemento actual de la lista a la variable especificada y ejecuta el bloque de código dentro del bucle con ese elemento.
+Ejemplo utilizado: for nombre_condicion, expresion in condiciones:
+En este caso, condiciones es una lista de tuplas donde cada tupla tiene dos elementos: el nombre de la condición y la expresión booleana asociada.
+Retorno de la función:
+
+¿Qué es? Es la acción de devolver un valor desde una función.
+Cómo funciona: Cuando una función encuentra una instrucción return, devuelve el valor especificado y finaliza la ejecución de la función.
+Ejemplo utilizado: return True y return False dentro de la función verificar_contrasena.
+Estos retornos se utilizan para indicar si todas las condiciones se cumplen (True) o si alguna condición no se cumple (False).

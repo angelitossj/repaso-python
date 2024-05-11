@@ -1,0 +1,14 @@
+Ejercicio 1: Contador Regresivo
+Crea un programa que solicite al usuario ingresar un número entero positivo y luego imprima un contador regresivo desde ese número hasta 0 utilizando un bucle while.
+
+Ejercicio 2: Suma de Números
+Pide al usuario que ingrese números enteros positivos uno por uno. Continúa sumando los números ingresados hasta que el usuario ingrese un número negativo. Luego, imprime la suma de todos los números positivos ingresados.
+
+Ejercicio 3: Factorial de un Número
+Pide al usuario que ingrese un número entero positivo. Calcula el factorial de ese número utilizando un bucle while y luego imprime el resultado.
+
+Ejercicio 4: Juego de Adivinar el Número
+Crea un programa que genere un número aleatorio entre 1 y 100. Luego, pide al usuario que adivine el número. Utiliza un bucle while para continuar pidiendo al usuario que ingrese números hasta que adivine el número correcto. Proporciona pistas al usuario indicando si el número a adivinar es mayor o menor que el número ingresado.
+
+Ejercicio 5: Secuencia Fibonacci
+Pide al usuario que ingrese un número entero positivo. Luego, utiliza un bucle while para generar y mostrar los primeros n números de la secuencia Fibonacci, donde n es el número ingresado por el usuario.

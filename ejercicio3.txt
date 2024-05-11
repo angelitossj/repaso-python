@@ -1,0 +1,7 @@
+Ejercicio 4: Verificación de Contraseña
+
+Crea una función llamada verificar_contrasena que reciba dos parámetros: una contraseña (como cadena de texto) y una lista de condiciones que debe cumplir la contraseña.
+Las condiciones serán representadas como tuplas donde el primer elemento es un nombre descriptivo de la condición y el segundo elemento es una expresión booleana que debe ser verdadera para que la contraseña sea válida.
+La función debe iterar sobre la lista de condiciones y verificar que todas las expresiones booleanas sean verdaderas para la contraseña dada.
+Si todas las condiciones se cumplen, la función debe devolver True. Si alguna condición no se cumple, la función debe devolver False.
+Luego, prueba tu función con una contraseña y una lista de condiciones.

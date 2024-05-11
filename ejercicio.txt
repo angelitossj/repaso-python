@@ -1,0 +1,19 @@
+Variables y Tipos de Datos:
+a) Declara una variable llamada edad y asígnale tu edad.
+b) Crea una variable nombre y asígnale tu nombre.
+c) Imprime un mensaje que diga "Hola, [nombre]. Tienes [edad] años."
+
+Listas y Métodos de Listas:
+a) Crea una lista llamada numeros con los números del 1 al 5.
+b) Agrega el número 6 al final de la lista.
+c) Elimina el número 3 de la lista.
+d) Imprime la lista resultante.
+
+Funciones Básicas:
+a) Crea una función llamada suma que reciba dos números como parámetros y devuelva su suma.
+b) Llama a la función suma con los números 5 y 7 e imprime el resultado.
+
+Métodos de Cadenas (Strings):
+a) Declara una variable frase con el valor "Hola, mundo!".
+b) Convierte la frase a minúsculas y guárdala en una nueva variable llamada frase_minusculas.
+c) Imprime la longitud de la frase original y la frase en minúsculas.
